@@ -1,0 +1,22 @@
+h1{
+            color: red;
+            text-align: center;
+            background: yellow;
+            border:2px solid green ;
+            font-size:50px
+
+}
+p{
+        text-align: center;
+        background: whitesmoke;
+        border:1px dotted green;
+        font-size: 20px;
+        font-style:italics;
+}
+.green{
+    color:green;
+}
+    #purple{
+    color:blue;
+    }
+   
